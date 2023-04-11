@@ -10,7 +10,7 @@
 #### Affiliation
 * Sejong University (2020.3~ )
 * Member of [Security Factorial](https://sites.google.com/site/ssfactorial/home) (2020.3 ~ )
-* 차세대 보안리더 양성 프로그램 Best of Best 10th (Top 30 🥈) (2021.7 ~ )
+* 차세대 보안리더 양성 프로그램 Best of Best 10th (Top 30 🥈) (2021.7 ~ 2022.3)
 * ROKA CERT (2022.7 ~ ) 
 
 #### Projects
