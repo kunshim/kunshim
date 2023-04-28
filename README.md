@@ -18,7 +18,7 @@
   * 2 of Remote Code Execution
   * Denial of Service (Remote)
 * [MuseScore](https://musescore.org/ko) vulnerability analysis
-  * CVE-2023-26923
+  * [CVE-2023-26923](https://nvd.nist.gov/vuln/detail/CVE-2023-26923)
   * ????
 
 #### Awards
