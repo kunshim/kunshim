@@ -19,7 +19,7 @@
   * Denial of Service (Remote)
 * [MuseScore](https://musescore.org/ko) vulnerability analysis
   * [CVE-2023-26923](https://nvd.nist.gov/vuln/detail/CVE-2023-26923)
-  * ????
+  * [ZDI-CAN-20769](https://www.zerodayinitiative.com/advisories/ZDI-23-1526/)
 
 #### Awards
 * 2017 Smarteen App Challenge honorable mention
