@@ -11,7 +11,7 @@
 * Sejong University (2020.3~ )
 * Member of [Security Factorial](https://sites.google.com/site/ssfactorial/home) (2020.3 ~ )
 * 차세대 보안리더 양성 프로그램 Best of Best 10th (Top 30 🥈) (2021.7 ~ 2022.3)
-* ROKA CERT (2022.7 ~ ) 
+* ROKA CERT (2022.7 ~ 2024.1) 
 
 #### Projects
 * [Unreal Engine](https://www.unrealengine.com/ko) vulnerability analysis *(undisclosed)*
