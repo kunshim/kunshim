@@ -13,6 +13,7 @@
 * 차세대 보안리더 양성 프로그램 Best of Best 10th (Top 30 🥈) (2021.7 ~ 2022.3)
 * ROKA CERT (2022.7 ~ 2024.1) 
 * DeadSec (2024.2 ~ )
+* Knights of Space (2024.3 ~) 
 
 #### Projects
 * [Unreal Engine](https://www.unrealengine.com/ko) vulnerability analysis *(undisclosed)*
