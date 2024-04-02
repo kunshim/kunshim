@@ -17,8 +17,6 @@
 
 #### Projects
 * [Unreal Engine](https://www.unrealengine.com/ko) vulnerability analysis *(undisclosed)*
-  * 2 of Remote Code Execution
-  * Denial of Service (Remote)
 * [MuseScore](https://musescore.org/ko) vulnerability analysis
   * [CVE-2023-26923](https://nvd.nist.gov/vuln/detail/CVE-2023-26923)
   * [ZDI-CAN-20769](https://www.zerodayinitiative.com/advisories/ZDI-23-1526/)
