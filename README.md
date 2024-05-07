@@ -25,5 +25,6 @@
 * 2017 Smarteen App Challenge honorable mention
 
 #### Blog
+* [Blog](https://blog.osori.site/)
 * [Tistory](https://osoriselfmanage.tistory.com/)   
 * [Velog](https://velog.io/@kunshim)
