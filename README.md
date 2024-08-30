@@ -34,4 +34,4 @@
 * tbtlctf 24 1st
 * moca ctf 24 QUAL 3rd
 * Hacktheon Sejong 24 Final
-* Defcon 24 Final 
+* Defcon CTF 32 Final 
