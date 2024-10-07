@@ -34,4 +34,5 @@
 * tbtlctf 24 1st
 * moca ctf 24 QUAL 3rd
 * Hacktheon Sejong 24 Final
-* Defcon CTF 32 Final 
+* Defcon CTF 32 Final
+* FIESTA 2024 8th
