@@ -36,3 +36,5 @@
 * Hacktheon Sejong 24 Final
 * Defcon CTF 32 Final
 * FIESTA 2024 8th
+### Author
+* pwnsec ctf 24 music_streaming_server (pwn)
